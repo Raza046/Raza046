@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raza046&label=Profile%20views&color=0e75b6&style=flat" alt="raza046" /> </p>
 
-- 🔭 🔭 I’m currently contributing to [Ecommerce app], building a scalable Django application for high-traffic eCommerce systems.(https://github.com/Raza046/Ecommerce-Django/tree/master)
+- 🔭 🔭 I’m currently contributing to [Ecommerce app](https://github.com/Raza046/Ecommerce-Django/tree/master), building a scalable Django application for high-traffic eCommerce systems.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raza046?tab=repositories](https://github.com/Raza046?tab=repositories)
 
